@@ -1,5 +1,6 @@
 # Paper Survey for Event-based Contrast Maximization
 
+
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`RAL`|[Event-Frame-Inertial Odometry Using Point and Line Features Based on Coarse-to-Fine Motion Compensation](https://ieeexplore.ieee.org/abstract/document/10855459)|[![Github stars](https://img.shields.io/github/stars/choibottle/C2F-EFIO.svg)](https://github.com/choibottle/C2F-EFIO)|-|
@@ -30,8 +31,6 @@
 |2019|`CVPR`|[Focus is all you need: Loss functions for event-based vision](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gallego_Focus_Is_All_You_Need_Loss_Functions_for_Event-Based_Vision_CVPR_2019_paper.pdf)|-|-| 
 |2017|`RAL`|[Accurate angular velocity estimation with an event camera](https://www.zora.uzh.ch/id/eprint/138896/1/RAL16_Gallego.pdf)|-|-| 
 |2018|`CVPR`|[A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gallego_A_Unifying_Contrast_CVPR_2018_paper.pdf)|-|[supplementary material](https://www.ifi.uzh.ch/dam/jcr:a22071c9-b284-43c6-8f71-6433627b2db2/CVPR18_Gallego.pdf)| 
-
-
 
 
 <!-- |-|`arXiv`|-|-|-| -->
