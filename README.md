@@ -27,6 +27,9 @@
 |2020|`CVPR`|[Globally optimal contrast maximisation for event-based motion estimation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Globally_Optimal_Contrast_Maximisation_for_Event-Based_Motion_Estimation_CVPR_2020_paper.pdf)|-|-| 
 |2019|`CVPR`|[Unsupervised event-based learning of optical flow, depth, and egomotion](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf)|-|-| 
 |2019|`CVPR`|[Event Cameras, Contrast Maximization and Reward Functions: An Analysis](https://openaccess.thecvf.com/content_CVPR_2019/papers/Stoffregen_Event_Cameras_Contrast_Maximization_and_Reward_Functions_An_Analysis_CVPR_2019_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/TimoStoff/events_contrast_maximization.svg)](https://github.com/TimoStoff/events_contrast_maximization)|-| 
+|2019|`CVPR`|[Focus is all you need: Loss functions for event-based vision](https://openaccess.thecvf.com/content_CVPR_2019/papers/Gallego_Focus_Is_All_You_Need_Loss_Functions_for_Event-Based_Vision_CVPR_2019_paper.pdf)|-|-| 
+|2017|`RAL`|[Accurate angular velocity estimation with an event camera](https://www.zora.uzh.ch/id/eprint/138896/1/RAL16_Gallego.pdf)|-|-| 
+|2018|`CVPR`|[A Unifying Contrast Maximization Framework for Event Cameras, with Applications to Motion, Depth and Optical Flow Estimation](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gallego_A_Unifying_Contrast_CVPR_2018_paper.pdf)|-|[supplementary material](https://www.ifi.uzh.ch/dam/jcr:a22071c9-b284-43c6-8f71-6433627b2db2/CVPR18_Gallego.pdf)| 
 
 
 
