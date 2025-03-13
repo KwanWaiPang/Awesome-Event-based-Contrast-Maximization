@@ -10,7 +10,7 @@
 |2024|`TPAMI`|[Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10517639)|[![Github stars](https://img.shields.io/github/stars/tub-rip/event_based_optical_flow.svg)](https://github.com/tub-rip/event_based_optical_flow)|-|
 |2022|`ECCV`|[Secrets of Event-based Optical Flow](https://arxiv.org/pdf/2207.10022)|-|-|
 |2024|`TRO`|[CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization](https://arxiv.org/pdf/2403.08119)|[![Github stars](https://img.shields.io/github/stars/tub-rip/cmax_slam.svg)](https://github.com/tub-rip/cmax_slam)|-|
-|2023|`TIV`|[MC-VEO: A visual-event odometry with accurate 6-DoF motion compensation](https://ieeexplore.ieee.org/abstract/document/10275026)|[![Github stars](https://img.shields.io/github/stars/***.svg)](https://cslinzhang.github.io/MC-VEO/MC-VEO.html)|-|
+|2023|`TIV`|[MC-VEO: A visual-event odometry with accurate 6-DoF motion compensation](https://ieeexplore.ieee.org/abstract/document/10275026)|[![Github stars](https://img.shields.io/github/stars/huangfeng95/mc-veo-buildconf.svg)](https://github.com/huangfeng95/mc-veo-buildconf)|-|
 |2023|`CVPR`|[Density Invariant Contrast Maximization for Neuromorphic Earth Observations](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Arja_Density_Invariant_Contrast_Maximization_for_Neuromorphic_Earth_Observations_CVPRW_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/neuromorphicsystems/event_warping.svg)](https://github.com/neuromorphicsystems/event_warping)|-|
 |2023|`CVPR`|[Taming contrast maximization for learning sequential, low-latency, event-based optical flow](https://openaccess.thecvf.com/content/ICCV2023/papers/Paredes-Valles_Taming_Contrast_Maximization_for_Learning_Sequential_Low-latency_Event-based_Optical_Flow_ICCV_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/tudelft/taming_event_flow.svg)](https://github.com/tudelft/taming_event_flow) |[Supplementary Material](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Paredes-Valles_Taming_Contrast_Maximization_ICCV_2023_supplemental.pdf)|
 |2023|`AIS`|[A Fast Geometric Regularizer to Mitigate Event Collapse in the Contrast Maximization Framework](https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202200251)|[![Github stars](https://img.shields.io/github/stars/tub-rip/event_collapse.svg)](https://github.com/tub-rip/event_collapse)|-|
@@ -19,14 +19,14 @@
 |2022|`Processes`|[Contrast maximization-based feature tracking for visual odometry with an event camera](https://www.mdpi.com/2227-9717/10/10/2081)|-|-|
 |2022|`Sensor`|[Visual Odometry with an Event Camera Using Continuous Ray Warping and Volumetric Contrast Maximization](https://arxiv.org/pdf/2107.03011)|-|-| 
 |2021|`CVPR`|[Back to event basics: Self-supervised learning of image reconstruction for event cameras via photometric constancy](https://openaccess.thecvf.com/content/CVPR2021/papers/Paredes-Valles_Back_to_Event_Basics_Self-Supervised_Learning_of_Image_Reconstruction_for_CVPR_2021_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/tudelft/ssl_e2vid.svg)](https://github.com/tudelft/ssl_e2vid)|-| 
-|-|`arXiv`|-|-|-| 
-|-|`arXiv`|-|-|-| 
-|-|`arXiv`|-|-|-| 
-|-|`arXiv`|-|-|-| 
-|-|`arXiv`|-|-|-| 
-|-|`arXiv`|-|-|-| 
-|-|`arXiv`|-|-|-| 
-|-|`arXiv`|-|-|-| 
+|2019|`TPAMI`|[Unsupervised learning of a hierarchical spiking neural network for optical flow estimation: From events to global motion perception](https://arxiv.org/pdf/1807.10936)|[![Github stars](https://img.shields.io/github/stars/tudelft/cuSNN.svg)](https://github.com/tudelft/cuSNN)|-| 
+|2021|`NIPS`|[Self-supervised learning of event-based optical flow with spiking neural networks](https://proceedings.neurips.cc/paper_files/paper/2021/file/39d4b545fb02556829aab1db805021c3-Paper.pdf)| [![Github stars](https://img.shields.io/github/stars/tudelft/event_flow.svg)](https://github.com/tudelft/event_flow)|[Supplementary Material](https://arxiv.org/pdf/2106.01862)| 
+|2021|`TPAMI`|[Globally-optimal contrast maximisation for event cameras](https://arxiv.org/pdf/2206.05127)|-|-| 
+|2020|`ECCV`|[Globally-optimal event camera motion estimation](https://arxiv.org/pdf/2203.03914)|-|-| 
+|2021|`RAL`|[Real-Time Rotational Motion Estimation With Contrast Maximization Over Globally Aligned Events](https://ieeexplore.ieee.org/abstract/document/9454404)|-|-| 
+|2020|`CVPR`|[Globally optimal contrast maximisation for event-based motion estimation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Globally_Optimal_Contrast_Maximisation_for_Event-Based_Motion_Estimation_CVPR_2020_paper.pdf)|-|-| 
+|2019|`CVPR`|[Unsupervised event-based learning of optical flow, depth, and egomotion](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Unsupervised_Event-Based_Learning_of_Optical_Flow_Depth_and_Egomotion_CVPR_2019_paper.pdf)|-|-| 
+|2019|`CVPR`|[Event Cameras, Contrast Maximization and Reward Functions: An Analysis](https://openaccess.thecvf.com/content_CVPR_2019/papers/Stoffregen_Event_Cameras_Contrast_Maximization_and_Reward_Functions_An_Analysis_CVPR_2019_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/TimoStoff/events_contrast_maximization.svg)](https://github.com/TimoStoff/events_contrast_maximization)|-| 
 
 
 
