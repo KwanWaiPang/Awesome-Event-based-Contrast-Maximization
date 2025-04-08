@@ -6,7 +6,7 @@
 |2025|`RAL`|[Event-Frame-Inertial Odometry Using Point and Line Features Based on Coarse-to-Fine Motion Compensation](https://ieeexplore.ieee.org/abstract/document/10855459)|[![Github stars](https://img.shields.io/github/stars/choibottle/C2F-EFIO.svg)](https://github.com/choibottle/C2F-EFIO)|-|
 |2024|`SRO`|[Fully neuromorphic vision and control for autonomous drone flight](https://www.science.org/doi/epdf/10.1126/scirobotics.adi0591)|[![Github stars](https://img.shields.io/github/stars/tudelft/event_planar.svg)](https://github.com/tudelft/event_planar)|-|
 |2024|`arXiv`|[EROAM: Event-based Camera Rotational Odometry and Mapping in Real-time](https://arxiv.org/pdf/2411.11004)|[![Github stars](https://img.shields.io/github/stars/wlxing1901/eroam.svg)](https://github.com/wlxing1901/eroam)|-|
-|2024|`arXiv`|[Secrets of Edge-Informed Contrast Maximization for Event-Based Vision(https://arxiv.org/pdf/2409.14611)]|-|-|
+|2024|`arXiv`|[Secrets of Edge-Informed Contrast Maximization for Event-Based Vision](https://arxiv.org/pdf/2409.14611)|-|-|
 |2024|`ECCV`|[Motion-prior Contrast Maximization for Dense Continuous-Time Motion Estimation](https://arxiv.org/pdf/2407.10802)|[![Github stars](https://img.shields.io/github/stars/tub-rip/MotionPriorCMax.svg)](https://github.com/tub-rip/MotionPriorCMax)|-|
 |2024|`TPAMI`|[Secrets of Event-based Optical Flow, Depth and Ego-motion Estimation by Contrast Maximization](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10517639)|[![Github stars](https://img.shields.io/github/stars/tub-rip/event_based_optical_flow.svg)](https://github.com/tub-rip/event_based_optical_flow)|-|
 |2022|`ECCV`|[Secrets of Event-based Optical Flow](https://arxiv.org/pdf/2207.10022)|-|-|
