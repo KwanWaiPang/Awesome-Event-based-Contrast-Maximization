@@ -5,6 +5,7 @@
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras](https://arxiv.org/pdf/2503.17262)|[![Github stars](https://img.shields.io/github/stars/tub-rip/e2fai.svg)](https://github.com/tub-rip/e2fai)|---| 
 |2025|`arXiv`|[Simultaneous Motion And Noise Estimation with Event Cameras](https://arxiv.org/pdf/2504.04029)|[![Github stars](https://img.shields.io/github/stars/tub-rip/ESMD.svg)](https://github.com/tub-rip/ESMD)|---|
 |2025|`RAL`|[Event-Frame-Inertial Odometry Using Point and Line Features Based on Coarse-to-Fine Motion Compensation](https://ieeexplore.ieee.org/abstract/document/10855459)|[![Github stars](https://img.shields.io/github/stars/choibottle/C2F-EFIO.svg)](https://github.com/choibottle/C2F-EFIO)|-|
 |2024|`SRO`|[Fully neuromorphic vision and control for autonomous drone flight](https://www.science.org/doi/epdf/10.1126/scirobotics.adi0591)|[![Github stars](https://img.shields.io/github/stars/tudelft/event_planar.svg)](https://github.com/tudelft/event_planar)|-|
