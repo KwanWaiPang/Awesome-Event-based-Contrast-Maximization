@@ -1,8 +1,11 @@
 # Paper Survey for Event-based Contrast Maximization
 
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Simultaneous Motion And Noise Estimation with Event Cameras](https://arxiv.org/pdf/2504.04029)|[![Github stars](https://img.shields.io/github/stars/tub-rip/ESMD.svg)](https://github.com/tub-rip/ESMD)|---|
 |2025|`RAL`|[Event-Frame-Inertial Odometry Using Point and Line Features Based on Coarse-to-Fine Motion Compensation](https://ieeexplore.ieee.org/abstract/document/10855459)|[![Github stars](https://img.shields.io/github/stars/choibottle/C2F-EFIO.svg)](https://github.com/choibottle/C2F-EFIO)|-|
 |2024|`SRO`|[Fully neuromorphic vision and control for autonomous drone flight](https://www.science.org/doi/epdf/10.1126/scirobotics.adi0591)|[![Github stars](https://img.shields.io/github/stars/tudelft/event_planar.svg)](https://github.com/tudelft/event_planar)|-|
 |2024|`arXiv`|[EROAM: Event-based Camera Rotational Odometry and Mapping in Real-time](https://arxiv.org/pdf/2411.11004)|[![Github stars](https://img.shields.io/github/stars/wlxing1901/eroam.svg)](https://github.com/wlxing1901/eroam)|-|
