@@ -40,6 +40,8 @@
 <!-- |-|`arXiv`|-|-|-| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
+* Paper Survey for Event-based SLAM [Paper List](https://github.com/KwanWaiPang/Awesome-Event-based-SLAM)
+
 
 
 
